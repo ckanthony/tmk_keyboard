@@ -4,6 +4,10 @@ This is a keyboard firmware with some useful features for Atmel AVR controller.
 
 Source code is available here: <http://github.com/tmk/tmk_keyboard>
 
+My changes to the project
+-------------------------
+
+- I especally like ALPS switch old apple keyboard, and being favouried by vi-like keymap and motion, I made my own keymap to the adb_usb conventer.
 
 Updates
 -------
