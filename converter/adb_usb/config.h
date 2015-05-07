@@ -20,10 +20,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
 #define VENDOR_ID       0xFEED
-#define PRODUCT_ID      0x0ADB
+#define PRODUCT_ID      0x0ADA
 #define DEVICE_VER      0x0101
 #define MANUFACTURER    t.m.k.
-#define PRODUCT         ADB keyboard converter
+#define PRODUCT         Apple Adjustable Keyboard 
 #define DESCRIPTION     convert ADB keyboard to USB
 
 /* matrix size */
